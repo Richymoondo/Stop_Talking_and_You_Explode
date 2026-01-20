@@ -1,9 +1,24 @@
 ### 01 Introduction
 
-1.1 Purpose/Aims - what is the aim of this document? What considerations do we make in this doc... identifying risks, limitations...? How will it be treated/updated throughout the project?
+#### 1.1 Purpose/Aims
+This document will outline the requirement for the system as a whole, the main body (case) of the "bomb" and the modules that will go in the case.
 
-1.2 Scope - What exactly are the outcomes we want from this document? What are the specific goals of the project as a whole? At what point do we know we're going off-topic?
-[Brief relative link](Design_Brief.md)
+Risks? Might not finish:
+- Lack of time. Mitigate by...?
+- Lack of motivation. Mitigate through mutual encouragement + regular (weekly?) meetings & status updates ...?
+- Lack of resource (i.e. parts not physically available to make modules). Aim to make modules work with common components and only essential functionality i.e. don't overcomplicate things.
+
+This will be a live document that will be updated regularly throughout the making of the "bomb". Given that the project has multiple subsystems, the details for each part will have their own spec. but this doc will serve as a central store of information, linking to the other files.
+
+1.2 Scope 
+This document should clarify all the requirements for the:
+- Case: have similar dimensions to the game; similar appearance to game; Contain the main processor. For futureproofing, include features for OTA updates. Must fit 12 modules.
+- Side panel features: low-profile, "easy" to integrate into the case;
+- Modules: Have a "status" indicator in top-right corner; 
+
+At what point do we know we're going off-topic?
+
+[Design Brief](Design_Brief.md)
 
 1.3 Useful Acronyms - Key abbreviations and acronyms that will be referenced in the doc
 
