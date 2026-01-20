@@ -20,8 +20,6 @@ test1
 
 #### 3.1 End User #1
 
-Richmond Test!!!
-
 Who are the end users? Describe a typical use case - how do they interact with the device; do they need to do any setup; how involved is it? Age range? Do they need a certain background/skillset?
 
 3.1.1 Installation/Assembly - Will they need to put anything together? What? How? Where..? How long will it take...?
