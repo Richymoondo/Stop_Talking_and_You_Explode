@@ -3,8 +3,8 @@
 #### 1.1 Purpose/Aims
 This document will outline the requirement for the system as a whole, the main body (case) of the "bomb" and the modules that will go in the case.
 
-Risks? Might not finish:
-- Lack of time. Mitigate by...?
+Risks? Might not finish due to:
+- Lack of time. Mitigate by understanding current time constraints and setting realistic goals accordingly.
 - Lack of motivation. Mitigate through mutual encouragement + regular (weekly?) meetings & status updates ...?
 - Lack of resource (i.e. parts not physically available to make modules). Aim to make modules work with common components and only essential functionality i.e. don't overcomplicate things.
 
@@ -209,4 +209,5 @@ Who are the end users? Describe a typical use case - how do they interact with t
 
 
 ### 14 Revision History
+
 
