@@ -15,6 +15,8 @@ This document should clarify all the requirements for the:
 - Case: have similar dimensions to the game; similar appearance to game; Contain the main processor. For futureproofing, include features for OTA updates. Must fit 12 modules.
 - Side panel features: low-profile, "easy" to integrate into the case;
 - Modules: Have a "status" indicator in top-right corner; 
+- Module tester: A device that acts as a "one module bomb" and allows the user to set specific
+  parameters (e.g. parallel port, serial number, indicators, remaining time etc). This would allow streamlined systematic testing for modules, as it wouldn't need to be loaded into the full device which has random parameters.
 
 At what point do we know we're going off-topic?
 
@@ -141,6 +143,13 @@ Who are the end users? Describe a typical use case - how do they interact with t
 11.1.3 PCBs
 
 11.1.4 Communication
+
+I2C communication
+    - only 2 wires needed, regardless of how many modules are used.
+    - Allows a module (i.e. the timer module) to act as the main controller and be placed anywhere.
+      With other communication protocols, either the master module would need to be in a specific place, or there would need to be a separate master within the case.
+      
+
 
 11.1.5 Interfaces
 
