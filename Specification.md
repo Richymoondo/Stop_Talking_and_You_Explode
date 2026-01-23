@@ -15,8 +15,8 @@ This document should clarify all the requirements for the:
 - Case: have similar dimensions to the game; similar appearance to game; Contain the main processor. For futureproofing, include features for OTA updates. Must fit 12 modules.
 - Side panel features: low-profile, "easy" to integrate into the case;
 - Modules: Have a "status" indicator in top-right corner; 
-- Module tester: A device that acts as a "one module bomb" and allows the user to set specific
-  parameters (e.g. parallel port, serial number, indicators, remaining time etc). This would allow streamlined systematic testing for modules, as it wouldn't need to be loaded into the full device which has random parameters.
+- Module tester: A device that acts as a "one module bomb" and allows the user to
+  set specific parameters (e.g. parallel port, serial number, indicators, remaining time etc). This would allow streamlined systematic testing for modules, as it wouldn't need to be loaded into the full device which has random parameters.
 
 At what point do we know we're going off-topic?
 
